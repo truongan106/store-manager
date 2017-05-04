@@ -1,0 +1,14 @@
+{
+  "name": "store-manager",
+  "version": "0.0.1",
+  "description": "Quan ly ban hang thoi trang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Truong An",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

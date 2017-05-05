@@ -1,0 +1,20 @@
+{
+  "name": "store-manager",
+  "description": "Quan ly ban hang thoi trang",
+  "main": "index.js",
+  "authors": [
+    "Truong An"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/truongan106/store-manager",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
